@@ -1,0 +1,10 @@
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Lambda_Ifadeleri\Lambda_Ifadeleri\bin\Debug\Lambda_Ifadeleri.exe.config
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Lambda_Ifadeleri\Lambda_Ifadeleri\bin\Debug\Lambda_Ifadeleri.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Lambda_Ifadeleri\Lambda_Ifadeleri\bin\Debug\Lambda_Ifadeleri.pdb
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Lambda_Ifadeleri\Lambda_Ifadeleri\obj\Debug\Lambda_Ifadeleri.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Lambda_Ifadeleri\Lambda_Ifadeleri\obj\Debug\Lambda_Ifadeleri.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Lambda_Ifadeleri\Lambda_Ifadeleri\obj\Debug\Lambda_Ifadeleri.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Lambda_Ifadeleri\Lambda_Ifadeleri\obj\Debug\Lambda_Ifadeleri.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Lambda_Ifadeleri\Lambda_Ifadeleri\obj\Debug\Lambda_Ifadeleri.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Lambda_Ifadeleri\Lambda_Ifadeleri\obj\Debug\Lambda_Ifadeleri.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Lambda_Ifadeleri\Lambda_Ifadeleri\obj\Debug\Lambda_Ifadeleri.pdb
